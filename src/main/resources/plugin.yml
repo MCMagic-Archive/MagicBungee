@@ -1,0 +1,4 @@
+name: MagicBungee
+main: us.mcmagic.magicbungee.MagicBungee
+version: 2.2.2
+author: MCMagicDev

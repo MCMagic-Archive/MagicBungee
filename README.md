@@ -1,0 +1,2 @@
+# MagicBungee
+MCMagic Bungee Plugin
